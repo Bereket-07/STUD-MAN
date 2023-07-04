@@ -1,6 +1,4 @@
-    1,BEREKET BIRHANU ----0228/13
-   
-   
+   1,BEREKET BIRHANU ----0228/13
    
    2,ETSUBDINK TADESSE---3971/13
    
