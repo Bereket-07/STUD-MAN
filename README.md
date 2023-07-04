@@ -1,4 +1,6 @@
-   1,BIRHANU BASHAW -----0130/13
+    1,BEREKET BIRHANU ----0228/13
+   
+   
    
    2,ETSUBDINK TADESSE---3971/13
    
@@ -10,7 +12,7 @@
    
    6,KIDIST DEJEN  ------0318/13
    
-   7,BEREKET BIRHANU ----0228/13
+   7,BIRHANU BASHAW -----0130/13
    
    8,AMIR BIRHANU  ------0745/13
    
