@@ -11,6 +11,7 @@ public class DynamicArrayDemo {
         System.out.println("Size: " + data.size() + ", length: " + data.length());
 
         for(int i = 0; i < data.size(); i++)
+        
             System.out.print(data.get(i) + "\t");
         System.out.println();
 
